@@ -10,7 +10,7 @@
 [class*=" icon-"] {
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'icomoon' !important;
-    speak: none;
+    /* speak: none; */
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
@@ -36,3 +36,13 @@
 .icon-twitter:before {
     content: "\ea96";
 }
+
+@font-face {
+    font-family: 'New Letter Gothic';
+    src: url('../fonts/');
+    src: url('../fonts/?#iefix') format('embedded-opentype'),
+    url('../fonts/NewLetterGothicC.woff') format('woff'),
+    url('../fonts/NewLetterGothicC.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    }

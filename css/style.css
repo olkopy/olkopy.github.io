@@ -1,3 +1,7 @@
+* {
+  font-family: 'New Letter Gothic';
+}
+
 .logo {
   height: 15px;
   width: 140px;
@@ -34,8 +38,9 @@
 }
 
 .menu_link {
+  font-weight: 400;
   color: #ffffff;
-  font-family: "Fira Sans";
+  font-family: "New Letter Gothic";
   font-size: 16px;
   font-weight: 400;
   -webkit-box-sizing: content-box;
@@ -59,7 +64,7 @@
 }
 
 .facelog .logmain {
-  max-width: 354px;
+  margin-right: 5px;
   max-height: 259px;
 }
 
@@ -100,7 +105,7 @@
 
 .screen_link {
   color: #1d1d1b;
-  font-family: "Fira Sans Light";
+  font-family: "New Letter Gothic";
   font-size: 22px;
   font-weight: 300;
   margin: 33px;
@@ -175,7 +180,7 @@
   height: 1.5em;
   background-color: #381a02;
   color: #ffffff;
-  font-family: "Fira Sans Ultra Light";
+  font-family: "New Letter Gothic";
   font-size: 20px;
   font-weight: 200;
   margin: 0 auto;
@@ -264,7 +269,7 @@ footer {
 }
 
 .contact_phone {
-  font-family: "Fira Sans Ultra Light";
+  font-family: "New Letter Gothic";
   font-size: 22px;
   font-weight: 200;
 }
@@ -275,13 +280,13 @@ footer {
 }
 
 .mail {
-  font-family: "Fira Sans Ultra Light";
+  font-family: "New Letter Gothic";
   font-size: 22px;
   font-weight: 200;
 }
 
 .contacts {
-  dislay: inline;
+
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
