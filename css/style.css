@@ -206,7 +206,6 @@
 
 .greetings p {
   margin: 0 auto;
-  text-shadow: 4px 4px 4px gray;
 }
 
 .underline {
@@ -270,7 +269,6 @@ footer {
   font-family: "Fira Sans Ultra Light";
   font-size: 22px;
   font-weight: 200;
-  text-shadow: 4px 4px 4px gray;
 }
 
 .footer_logo {
@@ -282,7 +280,6 @@ footer {
   font-family: "Fira Sans Ultra Light";
   font-size: 22px;
   font-weight: 200;
-  text-shadow: 4px 4px 4px gray;
 }
 
 .contacts {
