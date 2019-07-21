@@ -290,6 +290,11 @@ footer {
           align-items: center;
 }
 
+.phone_number {
+  text-decoration: none;
+  color: black;
+}
+
 @media (max-width: 767px) {
   .menu_item {
     margin-right: 5px;
