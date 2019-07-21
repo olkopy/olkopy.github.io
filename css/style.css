@@ -40,7 +40,7 @@
 .menu_link {
   font-weight: 400;
   color: #ffffff;
-  font-family: "New Letter Gothic";
+  font-family: "Fira Sans";
   font-size: 16px;
   font-weight: 400;
   -webkit-box-sizing: content-box;
@@ -49,7 +49,7 @@
 }
 
 .menu_link:hover {
-  text-shadow: 6px 6px 6px black;
+  text-decoration: underline;
 }
 
 .facelog {
@@ -105,7 +105,7 @@
 
 .screen_link {
   color: #1d1d1b;
-  font-family: "New Letter Gothic";
+  font-family: "Fira Sans Light";
   font-size: 22px;
   font-weight: 300;
   margin: 33px;
@@ -113,13 +113,7 @@
 }
 
 .screen_link:hover {
-  background-origin: padding-box;
-  -webkit-transition: 0.7s;
-  transition: 0.7s;
-  background-color: #8f8569;
-  color: white;
-  -webkit-box-shadow: 4px 4px 4px black;
-          box-shadow: 4px 4px 4px black;
+  text-decoration: underline;
 }
 
 .Img_Img {
@@ -180,7 +174,7 @@
   height: 1.5em;
   background-color: #381a02;
   color: #ffffff;
-  font-family: "New Letter Gothic";
+  font-family: "Fira Sans Ultra Light";
   font-size: 20px;
   font-weight: 200;
   margin: 0 auto;
@@ -269,7 +263,7 @@ footer {
 }
 
 .contact_phone {
-  font-family: "New Letter Gothic";
+  font-family: "Fira Sans Ultra Light";
   font-size: 22px;
   font-weight: 200;
 }
@@ -280,13 +274,13 @@ footer {
 }
 
 .mail {
-  font-family: "New Letter Gothic";
+  font-family: "Fira Sans Ultra Light";
   font-size: 22px;
   font-weight: 200;
 }
 
 .contacts {
-
+  dislay: inline;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
